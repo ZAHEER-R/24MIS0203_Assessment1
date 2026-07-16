@@ -1,4 +1,4 @@
-#print("Hospital Appointment Booking System")
+
 #def register_patient(name);
     #print(name, "registered successfully")
    # register_patient("Ali")
@@ -7,4 +7,6 @@
        # print("Login Successful")
 
    # login()
+print("Hospital Appointment Booking System")
 print("Main Branch Updated")
+print("Login Feature Added")
